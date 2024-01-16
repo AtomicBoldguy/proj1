@@ -1,0 +1,5 @@
+<RCC>
+  <qresource prefix="img">
+    <file>endcall.png</file>
+  </qresource>
+</RCC>
